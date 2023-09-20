@@ -1,0 +1,13 @@
+.file p,
+h3 {
+    display: inline;
+    margin-right: .5rem;
+}
+
+.file {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: none;
+    border: 1px solid #8e8e8e;
+    width: 100px;
+}
